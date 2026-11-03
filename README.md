@@ -58,8 +58,8 @@ Ownership & Borrowing  →  Structs & Enums  →  Error Handling
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=shimenga&amp;custom_title=Anesthesia%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=streak,week,trend,avg,active_day,grade,followers" />
-    <img height="260" src="https://ghstats.dev/api/card?username=shimenga&amp;theme=light&amp;custom_title=Anesthesia%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=streak,week,trend,avg,active_day,grade,followers" alt="Anesthesia's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=shimenga&amp;size=compact&amp;custom_title=Anesthesia%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=streak,week,trend,avg,active_day,followers&amp;show_ring=true&amp;v=2" />
+    <img height="180" src="https://ghstats.dev/api/card?username=shimenga&amp;size=compact&amp;theme=light&amp;custom_title=Anesthesia%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=streak,week,trend,avg,active_day,followers&amp;show_ring=true&amp;v=2" alt="Anesthesia's GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=shimenga&amp;layout=compact&amp;hide_border=true" />
@@ -68,7 +68,7 @@ Ownership & Borrowing  →  Structs & Enums  →  Error Handling
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shimenga&theme=transparent&hide_border=true&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" alt="Shimenga's GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=shimenga&theme=transparent&hide_border=true&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" alt="Anesthesia's GitHub streak" />
 </div>
 
 <div align="center">
