@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:2f81f7&height=220&section=header&text=Hi,%20I'm%20Shimenga%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:2f81f7&height=220&section=header&text=Hi,%20I'm%20Anesthesia%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Information+Security+Student+%F0%9F%8E%93;Java+%26+C%2B%2B+Developer;Learning+Rust+%F0%9F%A6%80;Keep+Learning%2C+Keep+Building." alt="Typing SVG" />
@@ -16,7 +16,7 @@
 ## 👨‍🎓 About Me
 
 ```yaml
-name: Shimenga
+name: Anesthesia
 role: University Student
 major: Information Security Technology and Applications
 code: [Java, C++]
@@ -58,12 +58,16 @@ Ownership & Borrowing  →  Structs & Enums  →  Error Handling
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=shimenga&amp;custom_title=Shimenga%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=streak,week,trend,avg,active_day,grade,followers" />
-    <img height="180" src="https://ghstats.dev/api/card?username=shimenga&amp;theme=light&amp;custom_title=Shimenga%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=streak,week,trend,avg,active_day,grade,followers" alt="Shimenga's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=shimenga&amp;custom_title=Anesthesia%27s%20Stars&amp;hide_border=true&amp;hide=commits,prs,issues,streak,week,trend,avg,active_day,grade,contributions,repos,followers" />
+    <img height="100" src="https://ghstats.dev/api/card?username=shimenga&amp;theme=light&amp;custom_title=Anesthesia%27s%20Stars&amp;hide_border=true&amp;hide=commits,prs,issues,streak,week,trend,avg,active_day,grade,contributions,repos,followers" alt="Anesthesia's GitHub stars" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=shimenga&amp;custom_title=Anesthesia%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=stars,streak,week,trend,avg,active_day,grade,followers" />
+    <img height="180" src="https://ghstats.dev/api/card?username=shimenga&amp;theme=light&amp;custom_title=Anesthesia%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=stars,streak,week,trend,avg,active_day,grade,followers" alt="Anesthesia's GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=shimenga&amp;layout=compact&amp;hide_border=true" />
-    <img height="180" src="https://ghstats.dev/api/langs?username=shimenga&amp;theme=light&amp;layout=compact&amp;hide_border=true" alt="Shimenga's top languages" />
+    <img height="180" src="https://ghstats.dev/api/langs?username=shimenga&amp;theme=light&amp;layout=compact&amp;hide_border=true" alt="Anesthesia's top languages" />
   </picture>
 </div>
 
