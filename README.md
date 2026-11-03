@@ -57,24 +57,18 @@ Ownership & Borrowing  →  Structs & Enums  →  Error Handling
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shimenga&show_icons=true&theme=transparent&hide_border=true&title_color=2f81f7&icon_color=2f81f7&rank_icon=github" alt="Shimenga's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimenga&layout=compact&theme=transparent&hide_border=true&title_color=2f81f7&langs_count=8" alt="Shimenga's top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=shimenga&amp;custom_title=Shimenga%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=streak,week,trend,avg,active_day,grade,followers" />
+    <img height="180" src="https://ghstats.dev/api/card?username=shimenga&amp;theme=light&amp;custom_title=Shimenga%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=streak,week,trend,avg,active_day,grade,followers" alt="Shimenga's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=shimenga&amp;layout=compact&amp;hide_border=true" />
+    <img height="180" src="https://ghstats.dev/api/langs?username=shimenga&amp;theme=light&amp;layout=compact&amp;hide_border=true" alt="Shimenga's top languages" />
+  </picture>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shimenga&theme=transparent&hide_border=true&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7" alt="Shimenga's GitHub streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shimenga&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Shimenga's GitHub trophies" />
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shimenga&theme=github-compact&hide_border=true&area=true&custom_title=Shimenga's%20Contribution%20Graph" alt="Shimenga's contribution graph" width="100%" />
 </div>
 
 <div align="center">
