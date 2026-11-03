@@ -34,7 +34,7 @@ motto: Stay curious. Keep building.
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,rust,git,github,linux,vscode,idea&perline=8" alt="Java, C++, Rust, Git, GitHub, Linux, VS Code and IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,rust,git,github,linux,vscode,idea,visualstudio&perline=9" alt="Java, C++, Rust, Git, GitHub, Linux, VS Code, IntelliJ IDEA and Visual Studio" />
 </div>
 
 | 方向 | 当前状态 |
@@ -58,12 +58,8 @@ Ownership & Borrowing  →  Structs & Enums  →  Error Handling
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=shimenga&amp;custom_title=Anesthesia%27s%20Stars&amp;hide_border=true&amp;hide=commits,prs,issues,streak,week,trend,avg,active_day,grade,contributions,repos,followers" />
-    <img height="100" src="https://ghstats.dev/api/card?username=shimenga&amp;theme=light&amp;custom_title=Anesthesia%27s%20Stars&amp;hide_border=true&amp;hide=commits,prs,issues,streak,week,trend,avg,active_day,grade,contributions,repos,followers" alt="Anesthesia's GitHub stars" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=shimenga&amp;custom_title=Anesthesia%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=stars,streak,week,trend,avg,active_day,grade,followers" />
-    <img height="180" src="https://ghstats.dev/api/card?username=shimenga&amp;theme=light&amp;custom_title=Anesthesia%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=stars,streak,week,trend,avg,active_day,grade,followers" alt="Anesthesia's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=shimenga&amp;custom_title=Anesthesia%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=streak,week,trend,avg,active_day,grade,followers" />
+    <img height="260" src="https://ghstats.dev/api/card?username=shimenga&amp;theme=light&amp;custom_title=Anesthesia%27s%20GitHub%20Stats&amp;hide_border=true&amp;hide=streak,week,trend,avg,active_day,grade,followers" alt="Anesthesia's GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=shimenga&amp;layout=compact&amp;hide_border=true" />
